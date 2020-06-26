@@ -7,10 +7,10 @@ Lyα emitters (LAEs) in the Epoch of Reionization (EoR) offer valuable probes of
 reionization itself, however the exact evolution of their abundance and the nature of their emission remains an open question. We
 combine samples of 229 and 349 LAE candidates at z = 5.7 and z = 6.6 respectively from the SILVERRUSH narrowband survey
 with deep Low Frequency Array (LOFAR) radio continuum observations in the ELAIS-N1 field to search for radio galaxies in the
-EoR and study the low-frequency radio properties of z 􏰀 5.7 LAE emitters. Our LOFAR observations reach an unprecedented depth
+EoR and study the low-frequency radio properties of z > 5.7 LAE emitters. Our LOFAR observations reach an unprecedented depth
 of ∼ 20 μJy beam−1 at 150MHz, and we detect 5 candidate LAEs at > 5σ significance. Based on detailed spectral energy distribution
 (SED) modelling of independent multi-wavelength observations in the field, we conclude that these sources are likely [OII] emitters
-at z = 1.47, yielding no reliable z 􏰀 5.7 radio galaxy candidates. We examine the 111 z = 5.7 and z = 6.6 LAE candidates that
+at z = 1.47, yielding no reliable z > 5.7 radio galaxy candidates. We examine the 111 z = 5.7 and z = 6.6 LAE candidates that
 are undetected in by LOFAR but have optical counterparts in our panchromatic photometry catalog, finding contamination rates of
 52-92 and 77-93% for the z = 5.7 and z = 6.6 subset of the LAE candidate samples respectively. Contamination of these optically
 bright LAE samples by likely [OII] emitters is lowered significantly through constraints on the near-infrared colors, highlighting the

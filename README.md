@@ -18,7 +18,7 @@ need for infrared observations to robustly identify LAEs in narrowband surveys. 
 the robust LAE samples yields a 2σ upper limit on radio luminosity of 8.2×1023 and 8.7×1023 W Hz−1 at z = 5.7/6.6 respectively, −1
  corresponding to limits on their median star-formation rates of <53 and 56 M⊙ yr .
 
-
+## Key results
 ![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/multiwavelength_cutouts_5_sources.png)
 Fig 1: Multi-wavelength cutouts of the 5 sources in the LOFAR detected sample including from left to right: HSC r band, HSC z band, HSC NB921 band, UKIDSS K band, IRAC 4.5 μm, LOFAR 150 MHz. The sources show negligible or no emission below the Lyman break in the r band, however clear emission is seen in both UKIDSS k band and IRAC.
 

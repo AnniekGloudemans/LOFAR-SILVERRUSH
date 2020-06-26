@@ -16,7 +16,7 @@ are undetected in by LOFAR but have optical counterparts in our panchromatic pho
 bright LAE samples by likely [OII] emitters is lowered significantly through constraints on the near-infrared colors, highlighting the
 need for infrared observations to robustly identify LAEs in narrowband surveys. Finally, stacking of radio continuum observations for
 the robust LAE samples yields a 2σ upper limit on radio luminosity of 8.2×10^23 and 8.7×10^23 W/Hz at z = 5.7/6.6 respectively,
- corresponding to limits on their median star-formation rates of <53 and 56 M⊙ yr .
+ corresponding to limits on their median star-formation rates of <53 and 56 M⊙/yr .
 
 ## Key results
 ![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/multiwavelength_cutouts_5_sources.png)

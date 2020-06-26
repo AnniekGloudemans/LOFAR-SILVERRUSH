@@ -1,9 +1,6 @@
 # LOFAR-SILVERRUSH
 
-Testing balbab;abda
+Here the key results of the paper "LOFAR Properties of SILVERRUSH Lyman Alpha Emitter Candidates in the ELAIS-N1 Field" are shown (Gloudemans, Duncan et al. to be submitted).  
 
-![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/eba3e5bb-1276-4d65-afcb-b67673435902.jpg)
-
-
-
-Onther balbala
+![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/multiwavelength_cutouts_5_sources.png)
+Fig 1: 5 sources were found to be overlapping 

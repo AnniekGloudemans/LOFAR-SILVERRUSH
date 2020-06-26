@@ -1,5 +1,8 @@
 # LOFAR-SILVERRUSH
 
+Here the key results of the paper "LOFAR Properties of SILVERRUSH Lyman Alpha Emitter Candidates in the ELAIS-N1 Field" are shown (Gloudemans, Duncan et al. to be submitted).
+
+## Abstract
 Lyα emitters (LAEs) in the Epoch of Reionization (EoR) offer valuable probes of both early galaxy evolution and the process of
 reionization itself, however the exact evolution of their abundance and the nature of their emission remains an open question. We
 combine samples of 229 and 349 LAE candidates at z = 5.7 and z = 6.6 respectively from the SILVERRUSH narrowband survey
@@ -16,8 +19,6 @@ the robust LAE samples yields a 2σ upper limit on radio luminosity of 8.2×1023
  corresponding to limits on their median star-formation rates of <53 and 56 M⊙ yr .
 
 
-Here the key results of the paper "LOFAR Properties of SILVERRUSH Lyman Alpha Emitter Candidates in the ELAIS-N1 Field" are shown (Gloudemans, Duncan et al. to be submitted).  
-
 ![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/multiwavelength_cutouts_5_sources.png)
 Fig 1: Multi-wavelength cutouts of the 5 sources in the LOFAR detected sample including from left to right: HSC r band, HSC z band, HSC NB921 band, UKIDSS K band, IRAC 4.5 μm, LOFAR 150 MHz. The sources show negligible or no emission below the Lyman break in the r band, however clear emission is seen in both UKIDSS k band and IRAC.
 
@@ -31,6 +32,7 @@ Fig 3: SED fitting results obtained using Bagpipes for ILTJ160227.18+544759.8, I
 Fig 4: Stacked LOFAR cutouts of LAE candidates SILVERRUSH samples. Left: NB816 full sample (226 sources; upper left), optically- selected sample (53 sources; middle left), and likely Lyα emitters (177 sources; bottom left). Right: NB921 full sample (322 sources; upper right), optically-selected sample (49 sources; middle right), and likely Lyα emitters (279 sources; bottom right). LOFAR detected sources and sources not overlapping with LOFAR coverage have been removed. We set limits on the radio luminosity of the LAE population of 8.2x10^23 and 8.7x 10^23 W/Hz at z=5.7 and 6.6 respectively, corresponding to limits on their median star formation rate of < 53 and 56 M⊙ /yr.
 
 ![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/lofar_silverrush_pz_stack.png)
+
 Fig 5: stacked photometric redshift probability distribution of the optically cross-matched sample of NB921 and NB816 LAE catalogs from Duncan et al 2020 (to be submitted). The known possible redshifts from the NB emission line detections and more detailed SED fitting allows to exclude other high-z solutions that are sometimes favored by the photometric redshift code.
 
 ![alt text](https://github.com/AnniekGloudemans/LOFAR-SILVERRUSH/blob/master/J_K_mag_photoz_optically_selected.png)

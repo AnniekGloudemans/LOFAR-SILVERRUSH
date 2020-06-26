@@ -9,13 +9,13 @@ combine samples of 229 and 349 LAE candidates at z = 5.7 and z = 6.6 respectivel
 with deep Low Frequency Array (LOFAR) radio continuum observations in the ELAIS-N1 field to search for radio galaxies in the
 EoR and study the low-frequency radio properties of z 􏰀 5.7 LAE emitters. Our LOFAR observations reach an unprecedented depth
 of ∼ 20 μJy beam−1 at 150MHz, and we detect 5 candidate LAEs at > 5σ significance. Based on detailed spectral energy distribution
-(SED) modelling of independent multi-wavelength observations in the field, we conclude that these sources are likely [Oii] emitters
+(SED) modelling of independent multi-wavelength observations in the field, we conclude that these sources are likely [OII] emitters
 at z = 1.47, yielding no reliable z 􏰀 5.7 radio galaxy candidates. We examine the 111 z = 5.7 and z = 6.6 LAE candidates that
 are undetected in by LOFAR but have optical counterparts in our panchromatic photometry catalog, finding contamination rates of
 52-92 and 77-93% for the z = 5.7 and z = 6.6 subset of the LAE candidate samples respectively. Contamination of these optically
-bright LAE samples by likely [Oii] emitters is lowered significantly through constraints on the near-infrared colors, highlighting the
+bright LAE samples by likely [OII] emitters is lowered significantly through constraints on the near-infrared colors, highlighting the
 need for infrared observations to robustly identify LAEs in narrowband surveys. Finally, stacking of radio continuum observations for
-the robust LAE samples yields a 2σ upper limit on radio luminosity of 8.2×1023 and 8.7×1023 W Hz−1 at z = 5.7/6.6 respectively, −1
+the robust LAE samples yields a 2σ upper limit on radio luminosity of 8.2×10^23 and 8.7×10^23 W/Hz at z = 5.7/6.6 respectively,
  corresponding to limits on their median star-formation rates of <53 and 56 M⊙ yr .
 
 ## Key results
